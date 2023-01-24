@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259224209333",
+    "project_id": "skola-ecef2",
+    "storage_bucket": "skola-ecef2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259224209333:android:c7860188a1ba8183d1bbfc",
+        "android_client_info": {
+          "package_name": "com.example.rasporedi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259224209333-39uk7ojvc9pk94b6m1sjkma8m4e5ukaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC57-KI-xczzYADKx63LsXwjuif8soqESc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259224209333-39uk7ojvc9pk94b6m1sjkma8m4e5ukaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
